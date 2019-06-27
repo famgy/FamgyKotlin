@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FamgyKotlin</string>
+
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+
+</resources>
